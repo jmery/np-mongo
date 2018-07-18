@@ -1,6 +1,6 @@
 pkg_origin=jmery
 pkg_name=np-mongodb
-pkg_version=3.2.9
+pkg_version=3.2.10
 pkg_description="Mongodb for National-Parks app"
 pkg_maintainer="Jeff Mery <jmery@chef.io>"
 pkg_license=('AGPL-3.0')
